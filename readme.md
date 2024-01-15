@@ -1,0 +1,1 @@
+Sample project that showcases how to detect when a SwiftUI view is on or offscreen, with a button that scrolls to the bottom.
